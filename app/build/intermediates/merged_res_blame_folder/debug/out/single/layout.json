@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chi_tiet_danh_muc.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_chi_tiet_danh_muc.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_grid_mon_ngau_nhien.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\item_grid_mon_ngau_nhien.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_grid_danh_muc.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\item_grid_danh_muc.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_thong_tin_khach_hang.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_thong_tin_khach_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gio_hang.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_gio_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_giohang.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\item_giohang.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_chi_tiet_danh_muc.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\item_chi_tiet_danh_muc.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_danh_muc.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_danh_muc.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_map.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chi_tiet_mon.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_chi_tiet_mon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lien_he.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_lien_he.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_loading.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\item_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gioi_thieu_chung.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_gioi_thieu_chung.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_maps.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list_nav.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\item_list_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_success_checkout.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_success_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_layout.xml",
+        "source": "C:\\Users\\HOANGLONG-LAPTOP\\AndroidStudioProjects\\AppFood\\app\\src\\main\\res\\layout\\activity_login_layout.xml"
+    }
+]
